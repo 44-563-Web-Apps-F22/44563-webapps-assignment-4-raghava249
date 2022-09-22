@@ -74,3 +74,21 @@ tr:nth-child(even){
 th{
     text-align: left;
 }
+u1.lin{
+    list-style-type:none;
+    margin: 1px;
+    padding: 2px;
+}
+u1.lin li{
+    float: left;
+    color: rebeccapurple;
+    background-color: rgb(175,157,192);
+}
+u1.lin a:hover{
+    background-color: cornflowerblue;
+    color: yellowgreen;
+}
+u1.lin a{
+    display: block;
+    padding: 3px;
+}
